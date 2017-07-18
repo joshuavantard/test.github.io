@@ -7,8 +7,8 @@
     <script src="https://use.fontawesome.com/112635ca43.js"></script>
     <link href="css/styles.css" rel="stylesheet">
     <!-- for Google -->
-    <meta name="description" content="Gathrer collates useful lists from across the web" />
-    <meta name="keywords" content="lists, collation, curation, internet" />
+    <meta name="description" content="A collaborative list of upcoming and previous Cryptocurrency ICOs" />
+    <meta name="keywords" content="cryptocurrency, crypto, ICO, ICOcountdown, lists, collation, internet" />
     <meta name="author" content="Gathrer" />
     <meta name="copyright" content="Gathrer" />
     <meta name="application-name" content="Gathrer" />
@@ -17,14 +17,14 @@
     <meta property="og:url" content="http://gathrer.com/index.html" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Gathrer" />
-    <meta property="og:description" content="Gathrer collates useful lists from across the web" />
+    <meta property="og:description" content="A collaborative list of upcoming and previous crypto ICOs" />
     <meta property="og:image" content="http://gathrer.com/assets/og1.png" />
     <!-- Twitter tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@gathrer" />
     <meta name="twitter:creator" content="@gathrer" />
     <meta name="twitter:title" content="Gathrer" />
-    <meta name="twitter:description" content="Gathrer collates useful lists from across the web" />
+    <meta name="twitter:description" content="A collaborative list of upcoming and previous crypto ICOssss" />
     <meta name="twitter:image" content="http://gathrer.com/assets/ogtwitter1.png" />
     <!-- CSS and Google Analytics
     <script>
@@ -53,8 +53,9 @@
     <div class="content1">
     <a href="http://www.gathrer.com"><img id="logo" src="assets/logo.svg" alt="gathrer"></a>
     <div class="intro">
-    <p>Add information and edit the Grenfell Count <a href="https://docs.google.com/spreadsheets/d/1WZjalk4rbj3lLl6XwzSZ6Vt_jq_a68h9miFziD4C_gE/edit#gid=0" target="_blank">here</a></p>
-    <p>Coordinate on our <a href="https://t.me/grenfelltower" target="_blank">group chat</a> or <a href="https://facebook.com/Joshua.Vantard" target="_blank">contact me</a></p>
+    <p>Edit the Crypto ICO list <a href="https://docs.google.com/spreadsheets/d/1bAuqPCZXUWdvMvr3Ov3tG_Ko57wp9jIJOEwZzLugIOo/edit#gid=0" target="_blank">here</a></p>
+    <p>Coordinate on our <a href="https://t.me/gathrerchat" target="_blank">group chat</a> or <a href="https://www.facebook.com/frank.hoogendijk" target="_blank">contact the admin</a></p>
+    <!-- <p>Contact the admin or request editing permissions <a href="https://facebook.com/Joshua.Vantard" target="_blank">here</a></p> -->
     <div class="nav-container2">
       <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/gathrer">
       <i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -62,10 +63,8 @@
       <i class="fa fa-twitter" aria-hidden="true"></i></a>
       <a href="https://medium.com/@gathrer" target="_blank">
       <i class="fa fa-medium" aria-hidden="true"></i></a>
-      <a href="https://github.com/joshuavantard/gathrer" target="_blank">
-      <i class="fa fa-github" aria-hidden="true"></i></a>
     </div>
-    <div class="doc"><iframe src="https://docs.google.com/spreadsheets/d/1WZjalk4rbj3lLl6XwzSZ6Vt_jq_a68h9miFziD4C_gE/pubhtml"></iframe></div>
+    <div class="doc"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXxO5s64PohenQTgQUdj3340RqUDtKnSM1wdncAVNBtHiTcJ-yDmSvPy10DxrFqnMoLd8c29om-x6t/pubhtml"></iframe></div>
     </body>
 </html>
 

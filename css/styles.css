@@ -50,6 +50,9 @@ iframe {
   text-align: center;
   margin: auto;
 }
+#footer1 {
+  height: 3em;
+}
 
 /* .content
 margin-top: 3em;

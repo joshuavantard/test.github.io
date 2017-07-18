@@ -54,7 +54,8 @@
     <a href="http://www.gathrer.com"><img id="logo" src="assets/logo.svg" alt="gathrer"></a>
     <div class="intro">
     <p>Edit the Grenfell bookmark list <a href="https://docs.google.com/spreadsheets/d/11U7qBEZ1hrNIqnPTLKsHUnqLZ5asFl1YMIVcWb02F5c/edit#gid=0" target="_blank">here</a></p>
-    <p>Contact the admin or request editing permissions <a href="https://facebook.com/Joshua.Vantard" target="_blank">here</a></p>
+    <p>Coordinate on our <a href="https://t.me/grenfelltower" target="_blank">group chat</a> or <a href="https://facebook.com/Joshua.Vantard" target="_blank">contact me</a></p>
+    <!-- <p>Contact the admin or request editing permissions <a href="https://facebook.com/Joshua.Vantard" target="_blank">here</a></p> -->
     <div class="nav-container2">
       <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/gathrer">
       <i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -62,8 +63,6 @@
       <i class="fa fa-twitter" aria-hidden="true"></i></a>
       <a href="https://medium.com/@gathrer" target="_blank">
       <i class="fa fa-medium" aria-hidden="true"></i></a>
-      <a href="https://github.com/joshuavantard/gathrer" target="_blank">
-      <i class="fa fa-github" aria-hidden="true"></i></a>
     </div>
     <div class="doc"><iframe src="https://docs.google.com/spreadsheets/d/11U7qBEZ1hrNIqnPTLKsHUnqLZ5asFl1YMIVcWb02F5c/pubhtml"></iframe></div>
     </body>
