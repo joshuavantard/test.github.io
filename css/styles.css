@@ -248,13 +248,10 @@ margin-right: 3em;
 
 /* Navigation */
 .selectors {
-  position: relative;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   margin: 0 0 3em 0;
-  justify-content: flex-start;
-  flex-flow: row wrap;
 
 }
 .category {
@@ -279,7 +276,6 @@ margin-right: 3em;
   },
 
 .view-type {
-  order: ;
   margin: 0 5px;
 
   },
