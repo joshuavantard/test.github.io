@@ -5,6 +5,10 @@
 
 /* Non-Box CSS */
 
+header {
+  display: flex;
+}
+
 body, input, select, textarea {
   color: #585858;
   font-family: 'Roboto', sans-serif;
@@ -265,10 +269,6 @@ margin-right: 3em;
 
 }
 
-.styling {
-  flex-grow: 1;
-}
-
 .view-type-container {
   margin: 0 5px;
   margin-top: 2em;
@@ -288,12 +288,6 @@ margin-right: 3em;
   margin-right: auto;
 }
 
-
-.search-input {
-  flex-grow: 1;
-  margin: 0 5px;
-
-}
 
 /* Form */
 
@@ -424,7 +418,7 @@ margin-right: 3em;
 
   .select-wrapper {
     text-decoration: none;
-    display: block;
+    display: flex;
     position: relative;
   }
 
@@ -447,7 +441,7 @@ margin-right: 3em;
       right: 0;
       text-align: center;
       top: 0;
-      width: 2rem;
+      width: 2.75rem;
     }
 
     .search-input select::-ms-expand {
