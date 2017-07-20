@@ -48,6 +48,9 @@ iframe {
 .content1 {
   text-align: center;
 }
+.content {
+  font-size: 12pt;
+}
 .intro {
   padding-top: 1em;
 }
