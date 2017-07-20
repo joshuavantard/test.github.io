@@ -252,7 +252,7 @@ margin-right: 3em;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  margin: 0 1em 3em 0;
+  margin: 0 0 3em 0;
   justify-content: flex-start;
   flex-flow: row wrap;
 
@@ -289,7 +289,6 @@ margin-right: 3em;
 }
 
 
-/* Form */
 
 /* Form */
 
@@ -433,7 +432,7 @@ margin-right: 3em;
 
     .select-wrapper:before {
       content: '\f078';
-      display: block;
+      display: flex;
       height: 2.75rem;
       line-height: 2.75rem;
       pointer-events: none;
