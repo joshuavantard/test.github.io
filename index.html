@@ -36,10 +36,11 @@
 
     ga('create', 'UA-101212096-1', 'auto');
     ga('send', 'pageview');
+    </script>
+    <!-- Selector script -->
+    <script src="js/tiles.json"></script>
 
-  </script>
-  </head>
-  <body>
+</head>
     <!-- Facebook share Javascript SDK -->
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
@@ -50,6 +51,7 @@
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
     <!-- Start of content -->
+    <body>
     <div class="content1">
     <a href="https://www.gathrer.com"><img id="logo" src="assets/logo.svg" alt="gathrer"></a>
     <div class="intro">
@@ -69,11 +71,11 @@
       <div class="inner">
         <div class="selectors">
           <div class="search-input">
-            <input type="text" value placeholder="Search">
+            <input type="text" value placeholder="Search" action"search">
           </div>
           <div class="select-wrapper category">
-            <select name="category" id="department">
-              <option value>All</option>
+            <select id="show" name="category">
+              <option value="All">All</option>
               <option value="Grenfell">Grenfell</option>
             </select>
           </div>
@@ -87,7 +89,7 @@
             <a href="/grenfell-count" target="_blank">
               <p> Grenfell Count Indicator </p>
               <div class="content">
-                <p>
+                <p class="tiledtext">
                   "Crowdsourcing statuses of Grenfell Tower residents"
                 </p>
               </div>
@@ -98,11 +100,11 @@
               <img src="assets/pic05.svg" alt>
             </span>
             <a href="/grenfell-bookmarks" target="_blank">
-              <p> Grenfell Bookmark Links </p>
+              <p id="text_area" class="form-control" type="text" name=> Grenfell Bookmark Links </p>
               <div class="content">
                 <p class="tiledtext">
                   "Crowdsourcing web-links helpful to Grenfell volunteers, survivors, press and the wider public"
-                </p class="tiledtext">
+                </p>
               </div>
             </a>
           </article>
@@ -113,7 +115,7 @@
             <a href="https://github.com/dkhamsing/open-source-ios-apps" target="_blank">
               <p> Open Source iOS Apps </p>
               <div class="content">
-                <p>
+                <p class="tiledtext">
                   "A collaborative list github of open-source iOS apps"
                 </p>
               </div>
@@ -126,7 +128,7 @@
             <a href="/crypto-icos" target="_blank">
               <p> Cryptocurrency ICOs </p>
               <div class="content">
-                <p>
+                <p class="tiledtext">
                   "A collaborative list of upcoming and previous crypto ICOs"
                 </p>
               </div>
@@ -173,4 +175,9 @@ https://docs.google.com/spreadsheets/d/11U7qBEZ1hrNIqnPTLKsHUnqLZ5asFl1YMIVcWb02
 
 This is the embed link for the Greenfield Residents List:
 <iframe src="https://docs.google.com/spreadsheets/d/1WZjalk4rbj3lLl6XwzSZ6Vt_jq_a68h9miFziD4C_gE/pubhtml?widget=true&amp;headers=false"></iframe>
+
+https://stackoverflow.com/questions/34142424/control-display-of-a-div-based-on-data-attribute
+https://jsfiddle.net/w4q5mwvw/111/
+https://stackoverflow.com/questions/38158005/insert-a-component-when-clicked-and-remove-the-componet-when-click-other-than-th
+
 -->

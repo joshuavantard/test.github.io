@@ -716,7 +716,7 @@ margin-right: 3em;
       }
 
       .tiledtext.selected {
-        display: inline-block;
+        display: inline-block
       }
 
       .tiles {
@@ -740,7 +740,7 @@ margin-right: 3em;
     @media screen and (max-width: 480px) {
 
       .tiles {
-        margin: -1.25em 0 0 -1.25em;
+        margin: -1.25em 0 0 0;
       }
 
         .tiles article {

@@ -1,0 +1,18 @@
+
+[{
+	"title": "Grenfell Count Indicator",
+	"category": "Grenfell",
+	"description": "Crowdsourcing statuses of Grenfell Tower residents"
+}, {
+	"title": "Grenfell Bookmark Links",
+	"category": ["Grenfell", "Political"],
+	"description": "Crowdsourcing web-links helpful to Grenfell volunteers, survivors, press and the wider public"
+}, {
+	"title": "Open Source iOS Apps",
+	"category": ["Technology"],
+	"description": "A collaborative list github of open-source iOS apps"
+}, {
+	"title": "Cryptocurrency ICOs",
+	"category": ["Technology"],
+	"description": "A collaborative list of upcoming and previous crypto ICOs"
+}]
